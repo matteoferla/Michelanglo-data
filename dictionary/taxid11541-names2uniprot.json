@@ -1,1 +1,1 @@
-{"NRAM_INBOR": "P16201", "Neuraminidase": "P16201", "NA": "P16201", "HEMA_INBOR": "P03464", "Hemagglutinin": "P03464", "HA": "P03464", "VNB_INBOR": "P16202", "Glycoprotein NB": "P16202", "NB": "P16202"}
+{"P16201": "P16201", "NRAM_INBOR": "P16201", "Neuraminidase": "P16201", "NA": "P16201", "P16202": "P16202", "VNB_INBOR": "P16202", "Glycoprotein NB": "P16202", "NB": "P16202", "P03464": "P03464", "HEMA_INBOR": "P03464", "Hemagglutinin": "P03464", "HA": "P03464"}

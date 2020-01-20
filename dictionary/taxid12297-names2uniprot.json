@@ -1,1 +1,1 @@
-{"Capsid protein": "P69470", "RDRP_TRVPS": "P05079", "Replicase large subunit": "P05079", "V29K_TRVPS": "P69472", "29 kDa protein": "P69472", "COAT_TRVPS": "P69470", "Coat protein": "P69470", "V16K_TRVPS": "P05075", "16 kDa protein": "P05075"}
+{"Capsid protein": "P69470", "P69472": "P69472", "V29K_TRVPS": "P69472", "29 kDa protein": "P69472", "P05079": "P05079", "RDRP_TRVPS": "P05079", "Replicase large subunit": "P05079", "P05075": "P05075", "V16K_TRVPS": "P05075", "16 kDa protein": "P05075", "P69470": "P69470", "COAT_TRVPS": "P69470", "Coat protein": "P69470"}

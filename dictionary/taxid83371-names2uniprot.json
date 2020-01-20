@@ -1,1 +1,1 @@
-{"RuBisCO small subunit": "O98946", "RuBisCO large subunit": "O98945", "RBS_DETCO": "O98946", "Ribulose bisphosphate carboxylase small chain": "O98946", "rbcS": "O98946", "RBL_DETCO": "O98945", "Ribulose bisphosphate carboxylase large chain": "O98945", "rbcL": "O98945"}
+{"RuBisCO large subunit": "O98945", "RuBisCO small subunit": "O98946", "O98945": "O98945", "RBL_DETCO": "O98945", "Ribulose bisphosphate carboxylase large chain": "O98945", "rbcL": "O98945", "O98946": "O98946", "RBS_DETCO": "O98946", "Ribulose bisphosphate carboxylase small chain": "O98946", "rbcS": "O98946"}

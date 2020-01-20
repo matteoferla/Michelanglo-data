@@ -1,1 +1,1 @@
-{"PRTE_HALME": "P28308", "Secreted proteinase": "P28308", "SODM2_HALME": "O08460", "Superoxide dismutase [Mn] 2": "O08460", "sod2": "O08460", "SODM1_HALME": "O08461", "Superoxide dismutase [Mn] 1": "O08461", "sod1": "O08461"}
+{"P28308": "P28308", "PRTE_HALME": "P28308", "Secreted proteinase": "P28308", "O08461": "O08461", "SODM1_HALME": "O08461", "Superoxide dismutase [Mn] 1": "O08461", "sod1": "O08461", "O08460": "O08460", "SODM2_HALME": "O08460", "Superoxide dismutase [Mn] 2": "O08460", "sod2": "O08460"}

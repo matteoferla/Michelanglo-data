@@ -1,1 +1,1 @@
-{"ORF1": "P19200", "ORF2": "P19201", "POL_COYMV": "P19199", "Polyprotein P3": "P19199", "YOR1_COYMV": "P19200", "Uncharacterized 23 kDa protein": "P19200", "YOR2_COYMV": "P19201", "Uncharacterized 15 kDa protein": "P19201"}
+{"ORF1": "P19200", "ORF2": "P19201", "P19200": "P19200", "YOR1_COYMV": "P19200", "Uncharacterized 23 kDa protein": "P19200", "P19201": "P19201", "YOR2_COYMV": "P19201", "Uncharacterized 15 kDa protein": "P19201", "P19199": "P19199", "POL_COYMV": "P19199", "Polyprotein P3": "P19199"}

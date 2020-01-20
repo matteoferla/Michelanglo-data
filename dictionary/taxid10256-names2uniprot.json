@@ -1,1 +1,1 @@
-{"Hemagglutinin": "Q00716", "HEMA_RACVI": "Q00716", "Protein A56": "Q00716", "HA": "Q00716", "DUSP_RACVI": "P80994", "Probable dual specificity protein phosphatase H1 homolog": "P80994", "KITH_RACVI": "Q90029", "Thymidine kinase": "Q90029", "TK": "Q90029"}
+{"Hemagglutinin": "Q00716", "Q00716": "Q00716", "HEMA_RACVI": "Q00716", "Protein A56": "Q00716", "HA": "Q00716", "Q90029": "Q90029", "KITH_RACVI": "Q90029", "Thymidine kinase": "Q90029", "TK": "Q90029", "P80994": "P80994", "DUSP_RACVI": "P80994", "Probable dual specificity protein phosphatase H1 homolog": "P80994"}
